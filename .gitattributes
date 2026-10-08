@@ -1,0 +1,9 @@
+# Windows와 macOS가 섞여 있어도 줄바꿈을 LF로 맞춥니다.
+* text=auto eol=lf
+
+*.pdf binary
+*.ttf binary
+*.woff2 binary
+*.ico binary
+*.png binary
+*.jpg binary
